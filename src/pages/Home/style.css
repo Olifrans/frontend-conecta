@@ -3,6 +3,7 @@
   width: 100%;
   position: fixed;
 }
+
 .toolbar {
   display: flex;
   align-items: center;
@@ -10,17 +11,20 @@
   height: 64px;
   padding: 0 24px;
 }
+
 .main {
   height: 100vh;
   display: flex;
   width: 1200px;
   margin: 0 auto;
 }
+
 .navbar {
   width: 350px;
   background: blue;
   padding: 24px;
 }
+
 .feed {
   background: yellow;
   width: 100%;
